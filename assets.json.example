@@ -1,0 +1,14 @@
+{
+  "bitcoin": {
+    "symbol": "btc",
+    "amount": "1.7"
+  },
+  "zcash": {
+    "symbol": "zec",
+    "amount": "99"
+  },
+  "usdollar": {
+    "symbol": "usd",
+    "amount": "100"
+  }
+}
