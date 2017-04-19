@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "memoizee": "^0.4.4",
     "shapeshift": "^1.0.2"
   },
   "devDependencies": {
