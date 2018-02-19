@@ -10,9 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "memoizee": "^0.4.4",
-    "shapeshift": "^1.0.2"
-  },
-  "devDependencies": {
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^1.6.3",
+    "promise-retry": "^1.1.1",
+    "shapeshift": "^1.0.2",
+    "winston": "^2.4.0"
   }
 }

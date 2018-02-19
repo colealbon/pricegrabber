@@ -1,14 +1,46 @@
 {
-  "bitcoin": {
-    "symbol": "btc",
-    "amount": "1.7"
-  },
-  "zcash": {
-    "symbol": "zec",
-    "amount": "99"
-  },
-  "usdollar": {
-    "symbol": "usd",
-    "amount": "100"
-  }
+    "ardor": {
+        "symbol": "ardr",
+        "amount": "1",
+        "decimals": "4"
+    },
+    "zcash": {
+        "symbol": "zec",
+        "amount": "1"
+    },
+    "bitcoin": {
+        "symbol": "btc",
+        "blockchain": "1",
+        "legacy": "1",
+        "segwit": "1"
+    },
+    "bitcoincash": {
+        "symbol": "bch",
+        "amount": "1"
+    },
+    "bitcoingold": {
+        "symbol": "btg",
+        "amount": "1"
+    },
+    "usdollar": {
+        "symbol": "usd",
+        "cash": "1",
+        "checking": "1",
+        "bitpay": "1"
+    },
+    "quantum": {
+        "symbol": "qrl",
+        "amount": "1",
+        "decimals": "2"
+    },
+    "ethereum": {
+        "symbol": "eth",
+        "amount": "1",
+        "decimals": "2"
+    },
+    "cardano": {
+        "symbol": "ada",
+        "amount": "1",
+        "decimals": "4"
+    }
 }
